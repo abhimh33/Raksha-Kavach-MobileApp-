@@ -8,6 +8,10 @@ A real-time geofencing safety application for location-based monitoring and emer
 
 ![App Demo](docs/demo/app-demo.gif)
 
+### Demo Video (with Voiceover)
+
+[Watch Full Demo Video on Google Drive](https://drive.google.com/file/d/10u91bvyPjeGPmiyyFbnV0HKBFJ4TY8XS/view?usp=drivesdk)
+
 ---
 
 ## Screenshots
