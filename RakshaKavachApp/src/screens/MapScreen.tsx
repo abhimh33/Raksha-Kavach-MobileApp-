@@ -30,8 +30,9 @@ const generateId = (): string => {
     return result;
 };
 
-// Initialize Mapbox
-Mapbox.setAccessToken('pk.eyJ1IjoiYWJoaW1oMzMiLCJhIjoiY21qd244bzI3NXo4bzNocXh0dnJyNWYxcyJ9.SMaJ5RT8lzuy9oQShQI5OA');
+// Initialize Mapbox - Add your public token here
+// Get it from: https://account.mapbox.com/access-tokens/
+Mapbox.setAccessToken('YOUR_MAPBOX_PUBLIC_TOKEN');
 
 interface UserLocation {
     userId: string;
